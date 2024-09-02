@@ -7,7 +7,7 @@ import java.util.Objects;
  * Esta clase es utilizada para manejar las operaciones relacionadas con clientes,
  * incluyendo la gestión de sus datos personales y de contacto.
  *
- * @author Luis Fernando Millan Rivera y juan
+ * @author Luis Fernando Millan Rivera y Juan José Mejía Sánchez
  */
 public class Cliente {
 
